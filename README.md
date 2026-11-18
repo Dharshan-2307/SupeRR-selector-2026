@@ -361,4 +361,4 @@ VALIDATION SUITE COMPLETE: 18 / 18 PASSED (100%)
 
 ---
 *Created for SupeRR Selector Season 2 — Rajasthan Royals Analytics Challenge.*  
-*Repository: `https://github.com/Dharshan-2307/<repo-name>`*
+*Repository: `https://github.com/Dharshan-2307/SupeRR-selector-2026`*
