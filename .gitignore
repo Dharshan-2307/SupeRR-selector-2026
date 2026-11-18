@@ -1,0 +1,21 @@
+# Large raw datasets (downloadable from competition portal)
+ball_by_ball.csv
+*.parquet
+*.pdf
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp

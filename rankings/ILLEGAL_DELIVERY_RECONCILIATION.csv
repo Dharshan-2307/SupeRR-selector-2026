@@ -1,0 +1,9 @@
+extras_type_clean,total_deliveries,regular_deliveries,super_over_deliveries,classified_legal,classified_illegal,super_over_legal,super_over_illegal
+None (Normal Delivery),189167,189135,32,189135,0,32,0
+Overstep,576,576,0,0,576,0,0
+Penalty,1,1,0,1,0,0,0
+byes,529,529,0,529,0,0,0
+legbyes,2748,2747,1,2747,0,1,0
+other,264,263,1,263,0,1,0
+wide,7714,7710,4,0,7710,0,4
+TOTAL,200999,200961,38,192675,8286,34,4

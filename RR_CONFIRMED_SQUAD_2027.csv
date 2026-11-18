@@ -1,0 +1,20 @@
+player_name,nationality,is_overseas,squad_category,primary_role,batting_hand,bowling_style,ipl_experience_matches,acquisition_type,tactical_assessment
+Yashasvi Jaiswal,India,False,Batting,Opening Batter,Left-hand,Right-arm Leg-break (Part-time),68,Retained,Elite aggressive Powerplay opener; attacks pace and spin alike; cornerstone of top order.
+Vaibhav Sooryavanshi,India,False,Batting,Opening/Top-Order Batter,Left-hand,Slow Left-arm Orthodox (Part-time),1,Retained,Prodigious young talent; high ceiling; developing backup opener.
+Dhruv Jurel,India,False,Wicketkeeper-Batter,Middle-Order Batter / Wicketkeeper,Right-hand,None,38,Retained,Primary Indian wicketkeeper; excellent middle-overs stabilizer (No. 4/5); 168.2 Press SR; elite runner.
+Riyan Parag,India,False,Batting,Top/Middle-Order Batter,Right-hand,Right-arm Off-break / Leg-break,69,Retained,Core No. 3/4 batter; proven anchor against spin with 157.7 Press SR; sixth bowling option.
+Aman Rao Perala,India,False,Batting,Top/Middle-Order Batter,Right-hand,Right-arm Off-break,0,Retained,Uncapped domestic batter; bench depth for top-to-middle order.
+Shubham Dubey,India,False,Batting,Middle-Order Power Finisher,Left-hand,Right-arm Off-break (Part-time),4,Retained,Designated domestic left-hand finisher; 192.9 Press SR in limited sample; high potential but unproven at full IPL scale.
+Lhuan-dre Pretorius,South Africa,True,Wicketkeeper-Batter,Top-Order Batter / Wicketkeeper,Left-hand,None,0,Retained,Emerging South Africa U19 overseas wicketkeeper-batter; developmental overseas depth.
+Donovan Ferreira,South Africa,True,Wicketkeeper-Batter,Explosive Lower-Order Finisher / Wicketkeeper,Right-hand,Right-arm Off-break,4,Retained,"Power-hitting finisher (164.3 career SR); versatile keeper/bowler; candidate for No. 6/7, but takes an overseas slot."
+Ravindra Jadeja,India,False,All-Rounder,Spin-Bowling All-Rounder,Left-hand,Slow Left-arm Orthodox,240,Retained,World-class Indian all-rounder; locks down 4 overs of middle spin (7.87 Econ); solid No. 6/7 bat (161.3 Press SR).
+Dasun Shanaka,Sri Lanka,True,All-Rounder,Pace-Bowling All-Rounder,Right-hand,Right-arm Medium,7,Retained,Experienced international pace-bowling all-rounder; 181.9 Press SR; provides 1-2 overs of seam backup.
+Jofra Archer,England,True,Pace Bowler,Express Fast Bowler,Right-hand,Right-arm Fast,42,Retained,Premier strike bowler; lethal in Powerplay and Death (7.07 Press Econ); fitness/workload management is primary risk.
+Mohammed Shami,India,False,Pace Bowler,Seam & Swing Fast Bowler,Right-hand,Right-arm Fast-Medium,110,Traded In (from LSG),Elite new-ball swing bowler; 6.65 Press Econ; anchors Powerplay wickets; requires death-overs tandem partner.
+Nandre Burger,South Africa,True,Pace Bowler,Left-Arm Express Fast Bowler,Left-hand,Left-arm Fast,6,Retained,Hostile 145+ km/h left-arm pace; enforcer role in overs 1-10; developing death yorker execution.
+Sandeep Sharma,India,False,Pace Bowler,Swing & Death Specialist,Right-hand,Right-arm Medium-Fast,127,Retained,Veteran domestic death/swing bowler; knuckle balls and change of pace; higher pressure economy (10.25 RPO) indicates need for backup.
+Brijesh Sharma,India,False,Pace Bowler,Medium-Fast Bowler,Right-hand,Right-arm Medium-Fast,0,Retained,Uncapped domestic seam depth; developmental role.
+Sushant Mishra,India,False,Pace Bowler,Left-Arm Fast-Medium Bowler,Left-hand,Left-arm Fast-Medium,2,Retained,Young domestic left-arm pacer; provides natural angle backup; raw at IPL level.
+Yash Raj Punja,India,False,Pace Bowler,Medium-Fast Bowler,Right-hand,Right-arm Medium-Fast,0,Retained,Uncapped domestic seam prospect; bench depth.
+Ravi Bishnoi,India,False,Spin Bowler,Wrist-Spin Bowler,Right-hand,Right-arm Leg-break / Googly,66,Retained,Frontline attacking leg-spinner; lethal googly against RH batters; controls middle overs (7-15).
+Manimaran Siddharth,India,False,Spin Bowler,Slow Left-Arm Orthodox Bowler,Right-hand,Slow Left-arm Orthodox,3,Traded In (from LSG),Accurate powerplay/middle left-arm spinner; traded in from LSG; backup for Ravindra Jadeja.
